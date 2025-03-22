@@ -49,7 +49,8 @@ numpy
 
 Clone the Repo:  
 bash
-git clone (https://github.com/ArshiBansal/PageReplacementSimulator)  
+git clone https://github.com/ArshiBansal/PageReplacementSimulator.git  
+
 cd page-replacement-simulator  
 
 Install Dependencies:  
