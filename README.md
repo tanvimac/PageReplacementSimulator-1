@@ -47,21 +47,25 @@ numpy
 
 <b>🚀 Installation</b>
 
-Clone the Repo:  
-bash
-git clone https://github.com/ArshiBansal/PageReplacementSimulator.git  
+Clone the Repository:  
+``` bash
+git clone https://github.com/ArshiBansal/PageReplacementSimulator.git
 
-cd page-replacement-simulator  
+```
 
 Install Dependencies:  
-bash
-pip install matplotlib numpy  
+```
+pip install matplotlib
+pip install numpy
+pip install tkinter
+```
 
 Launch the Simulator:  
-bash
-python page_replacement_simulator.py  
+```
+python Main_Code.py
+```
 
-<b>🎮 How to Use</b>
+<b>🔧 How to Use</b>
 
 Start the App: Run the script to launch the GUI. 🔥  
 
